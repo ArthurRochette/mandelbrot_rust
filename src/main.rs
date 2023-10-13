@@ -12,7 +12,6 @@ fn main() {
     // to_ppm(a);
     // println!("Time elapsed: {:?}", now.elapsed());
 
-
     // wgpu hello world
     pollster::block_on(run());
 
